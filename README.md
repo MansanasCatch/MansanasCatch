@@ -26,12 +26,12 @@
         - ✔️ PHP
     - 📚 Knowledgeable in:
         - ✔️ Azure DevOps Git Repository, GitHub, Git Bash, and TFS
-        - ✔️ Stored Procedure, Entity Framework, LINQ, OOP
+        - ✔️ Stored Procedure, Entity Framework, LINQ
         - ✔️ HTML,CSS, Bootstrap, JavaScript, JQuery, AJAX, AngularJS,VueJS, RectJS
         - ✔️ Python Web Scrapping with SQLite, Selenium, BeautifulSoap
         - ✔️ Admin LTE,Modern Admin Template,Vuexy Template
         - ✔️ IIS Publishing, RESTAPI, Token, SignalR
-        - ✔️  Mapping.
+        - ✔️ Mapping
             - Google Map API and ArcGIS API
             - GPS Tracking using Android
             - Geofencing
