@@ -10,9 +10,10 @@
 [<img align="left" alt="Catch | Instagram" width="50px" src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png" />](https://www.instagram.com/cristian_catch/)
 [<img align="left" alt="Catch | LinkedIn" width="50px" src="https://img.icons8.com/fluent/64/000000/linkedin.png" />](https://www.linkedin.com/in/cristian-catchuela-bb70b01a1)
 
+---
 <br />
 
-## I'm a FullStack Developer 😄
+### I'm a FullStack Developer 😄
 
 - 📘 Web Development
     - 📚 Software / Editor/IDE:
@@ -31,11 +32,11 @@
         - ✔️ Admin LTE,Modern Admin Template,Vuexy Template
         - ✔️ IIS Publishing, RESTAPI, Token, SignalR
         - ✔️  Mapping.
-            - 1. Google Map API and ArcGIS API
-            - 2. GPS Tracking using Android
-            - 3. Geofencing
-            - 4. Geotagging (POI)
-            - 5. Routing
+            - Google Map API and ArcGIS API
+            - GPS Tracking using Android
+            - Geofencing
+            - Geotagging (POI)
+            - Routing
 
 - 📘 Android Development
     - 📚 Software/IDE:
