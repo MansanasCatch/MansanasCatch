@@ -5,10 +5,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Catch | YouTube" width="22px" src="https://img.icons8.com/plasticine/100/000000/youtube.png" />](https://www.youtube.com/channel/UC014ZRlK0DfA6xeroiKdWeg)
-[<img align="left" alt="Catch | Facebook" width="22px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />](https://www.facebook.com/CatchCodeLabs/)
-[<img align="left" alt="Catch | Instagram" width="22px" src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png" />](https://www.instagram.com/cristian_catch/)
-[<img align="left" alt="Catch | LinkedIn" width="22px" src="https://img.icons8.com/fluent/64/000000/linkedin.png" />](https://www.linkedin.com/in/cristian-catchuela-bb70b01a1)
+[<img align="left" alt="Catch | YouTube" width="10%" src="https://img.icons8.com/plasticine/100/000000/youtube.png" />](https://www.youtube.com/channel/UC014ZRlK0DfA6xeroiKdWeg)
+[<img align="left" alt="Catch | Facebook" width="10%" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />](https://www.facebook.com/CatchCodeLabs/)
+[<img align="left" alt="Catch | Instagram" width="10%" src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png" />](https://www.instagram.com/cristian_catch/)
+[<img align="left" alt="Catch | LinkedIn" width="10%" src="https://img.icons8.com/fluent/64/000000/linkedin.png" />](https://www.linkedin.com/in/cristian-catchuela-bb70b01a1)
 
 <br />
 
