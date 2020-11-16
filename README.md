@@ -14,64 +14,64 @@
 
 ## I'm a FullStack Developer 😄
 
-📘 Web Development
-    📚 Software / Editor/IDE:
-        ✔️ Visual Studio, 
-        ✔️ VS Code 
-        ✔️ Sublime Text
-    📚 Programming Languages/Framework:
-        ✔️ ASP.NET MVC Razor C#
-        ✔️ JavaScript 
-        ✔️ PHP
-    📚 Knowledgeable in:
-        ✔️ Azure DevOps Git Repository, GitHub, Git Bash, and TFS
-        ✔️ Stored Procedure, Entity Framework, LINQ, OOP
-        ✔️ HTML,CSS, Bootstrap, JavaScript, JQuery, AJAX, AngularJS
-        ✔️ Python Web Scrapping with SQLite, Selenium, BeautifulSoap
-        ✔️ Admin LTE,Modern Admin Template,Vuexy Template
-        ✔️ IIS Publishing, RESTAPI, Token, SignalR
-        ✔️  Mapping.
-            1. Google Map API and ArcGIS API
-            2. GPS Tracking using Android
-            3. Geofencing
-            4. Geotagging (POI)
-            5. Routing
+- 📘 Web Development
+    - 📚 Software / Editor/IDE:
+        - ✔️ Visual Studio, 
+        - ✔️ VS Code 
+        - ✔️ Sublime Text
+    - 📚 Programming Languages/Framework:
+        - ✔️ ASP.NET MVC Razor C#
+        - ✔️ JavaScript 
+        - ✔️ PHP
+    - 📚 Knowledgeable in:
+        - ✔️ Azure DevOps Git Repository, GitHub, Git Bash, and TFS
+        - ✔️ Stored Procedure, Entity Framework, LINQ, OOP
+        - ✔️ HTML,CSS, Bootstrap, JavaScript, JQuery, AJAX, AngularJS
+        - ✔️ Python Web Scrapping with SQLite, Selenium, BeautifulSoap
+        - ✔️ Admin LTE,Modern Admin Template,Vuexy Template
+        - ✔️ IIS Publishing, RESTAPI, Token, SignalR
+        - ✔️  Mapping.
+            - 1. Google Map API and ArcGIS API
+            - 2. GPS Tracking using Android
+            - 3. Geofencing
+            - 4. Geotagging (POI)
+            - 5. Routing
 
-📘 Android Development
-    📚 Software/IDE:
-        ✔️ Android Studio 
-        ✔️ Unity
-    📚 Programming Languages:
-        ✔️ Java
-        ✔️ C#
-    📚 Knowledgeable in:
-        ✔️ Volley
-        ✔️ Retrofit
-        ✔️ RESTAPI
-        ✔️ Room Persistence
-        ✔️ SQLite
-        ✔️ File Uploading
-        ✔️ Bluetooth
-        ✔️ QR Codes 
-        ✔️ GPS Tracking
+- 📘 Android Development
+    - 📚 Software/IDE:
+        - ✔️ Android Studio 
+        - ✔️ Unity
+    - 📚 Programming Languages:
+        - ✔️ Java
+        - ✔️ C#
+    - 📚 Knowledgeable in:
+        - ✔️ Volley
+        - ✔️ Retrofit
+        - ✔️ RESTAPI
+        - ✔️ Room Persistence
+        - ✔️ SQLite
+        - ✔️ File Uploading
+        - ✔️ Bluetooth
+        - ✔️ QR Codes 
+        - ✔️ GPS Tracking
 
-📘 Windows Application Development
-    📚 Software/IDE:
-        ✔️ Visual Studio 
-        ✔️ NetBeans
-    📚 Programming Languages:
-        ✔️ Visual Basic.Net
-        ✔️ C#
-        ✔️ Java
-    📚 Knowledgeable in:
-        ✔️ Bunifu 
-        ✔️ Metro Framework
+- 📘 Windows Application Development
+    - 📚 Software/IDE:
+        - ✔️ Visual Studio 
+        - ✔️ NetBeans
+    - 📚 Programming Languages:
+        - ✔️ Visual Basic.Net
+        - ✔️ C#
+        - ✔️ Java
+    - 📚 Knowledgeable in:
+        - ✔️ Bunifu 
+        - ✔️ Metro Framework
 
- 📘 Other Knowledge 
-        ✔️ Lighthouse Extension Testing Tool
-        ✔️ C, C++, XML, Json, ADO.NET, Owin, Dataset, OOP,API and Crystal Report
-        ✔️ Blender, Pencil, Adobe Photoshop, Adobe Flash, and Adobe Illustrator
-        ✔️ Configuring network (LAN/WLAN,).
+ - 📘 Other Knowledge 
+        - ✔️ Lighthouse Extension Testing Tool
+        - ✔️ C, C++, XML, Json, ADO.NET, Owin, Dataset, OOP,API and Crystal Report
+        - ✔️ Blender, Pencil, Adobe Photoshop, Adobe Flash, and Adobe Illustrator
+        - ✔️ Configuring network (LAN/WLAN,).
 
 <br />
 
