@@ -51,6 +51,7 @@
         - ✔️ RESTAPI
         - ✔️ Room Persistence
         - ✔️ SQLite
+        - ✔️ Firebase
         - ✔️ File Uploading
         - ✔️ Bluetooth
         - ✔️ QR Codes 
