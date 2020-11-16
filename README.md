@@ -10,10 +10,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Catch | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/UC014ZRlK0DfA6xeroiKdWeg]
-[<img align="left" alt="Catch | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/cristian_catch/]
-[<img align="left" alt="Catch | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://www.facebook.com/CatchCodeLabs/]
-[<img align="left" alt="Catch | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://www.facebook.com/cristian.catchuela]
+[<img align="left" alt="Catch | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube](https://www.youtube.com/channel/UC014ZRlK0DfA6xeroiKdWeg)
+[<img align="left" alt="Catch | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram](https://www.instagram.com/cristian_catch/)
+[<img align="left" alt="Catch | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook](https://www.facebook.com/CatchCodeLabs/)
+[<img align="left" alt="Catch | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook](https://www.facebook.com/cristian.catchuela)
 <br />
 
 ### Languages and Tools:
