@@ -27,7 +27,7 @@
     - 📚 Knowledgeable in:
         - ✔️ Azure DevOps Git Repository, GitHub, Git Bash, and TFS
         - ✔️ Stored Procedure, Entity Framework, LINQ, OOP
-        - ✔️ HTML,CSS, Bootstrap, JavaScript, JQuery, AJAX, AngularJS
+        - ✔️ HTML,CSS, Bootstrap, JavaScript, JQuery, AJAX, AngularJS,VueJS, RectJS, NodeJS, Express
         - ✔️ Python Web Scrapping with SQLite, Selenium, BeautifulSoap
         - ✔️ Admin LTE,Modern Admin Template,Vuexy Template
         - ✔️ IIS Publishing, RESTAPI, Token, SignalR
@@ -67,6 +67,15 @@
     - 📚 Knowledgeable in:
         - ✔️ Bunifu 
         - ✔️ Metro Framework
+        
+- 📘 Database Management System
+    - 📚 Knowledgeable in:
+        - ✔️ Microsoft SQL Server
+        - ✔️ XAMPP
+        - ✔️ Workbench
+        - ✔️ Query Browser
+        - ✔️ SQLite
+        - ✔️ MongoDB
 
 - 📘 Other Knowledge 
     - 📚 Knowledgeable in:
