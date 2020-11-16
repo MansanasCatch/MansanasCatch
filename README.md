@@ -1,4 +1,7 @@
 ### Hi there, I'm Cristian - aka [Catch] 👋
+- ✔️ I’m looking to collaborate with other content creators
+- ✔️ 2020 Goals: Contribute more to Open Source projects
+- ✔️ Fun fact: I love to draw and play guitar
 
 ### Connect with me:
 
@@ -11,30 +14,65 @@
 
 ## I'm a FullStack Developer 😄
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar
+📘 Web Development
+    📚 Software / Editor/IDE:
+        ✔️ Visual Studio, 
+        ✔️ VS Code 
+        ✔️ Sublime Text
+    📚 Programming Languages/Framework:
+        ✔️ ASP.NET MVC Razor C#
+        ✔️ JavaScript 
+        ✔️ PHP
+    📚 Knowledgeable in:
+        ✔️ Azure DevOps Git Repository, GitHub, Git Bash, and TFS
+        ✔️ Stored Procedure, Entity Framework, LINQ, OOP
+        ✔️ HTML,CSS, Bootstrap, JavaScript, JQuery, AJAX, AngularJS
+        ✔️ Python Web Scrapping with SQLite, Selenium, BeautifulSoap
+        ✔️ Admin LTE,Modern Admin Template,Vuexy Template
+        ✔️ IIS Publishing, RESTAPI, Token, SignalR
+        ✔️  Mapping.
+            1. Google Map API and ArcGIS API
+            2. GPS Tracking using Android
+            3. Geofencing
+            4. Geotagging (POI)
+            5. Routing
 
-<br />
+📘 Android Development
+    📚 Software/IDE:
+        ✔️ Android Studio 
+        ✔️ Unity
+    📚 Programming Languages:
+        ✔️ Java
+        ✔️ C#
+    📚 Knowledgeable in:
+        ✔️ Volley
+        ✔️ Retrofit
+        ✔️ RESTAPI
+        ✔️ Room Persistence
+        ✔️ SQLite
+        ✔️ File Uploading
+        ✔️ Bluetooth
+        ✔️ QR Codes 
+        ✔️ GPS Tracking
 
-### Languages and Tools:
+📘 Windows Application Development
+    📚 Software/IDE:
+        ✔️ Visual Studio 
+        ✔️ NetBeans
+    📚 Programming Languages:
+        ✔️ Visual Basic.Net
+        ✔️ C#
+        ✔️ Java
+    📚 Knowledgeable in:
+        ✔️ Bunifu 
+        ✔️ Metro Framework
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+ 📘 Other Knowledge 
+        ✔️ Lighthouse Extension Testing Tool
+        ✔️ C, C++, XML, Json, ADO.NET, Owin, Dataset, OOP,API and Crystal Report
+        ✔️ Blender, Pencil, Adobe Photoshop, Adobe Flash, and Adobe Illustrator
+        ✔️ Configuring network (LAN/WLAN,).
 
-<br />
 <br />
 
 ---
