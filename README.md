@@ -75,7 +75,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="MansanasCatch's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MansanasCatch&show_icons=true&hide_border=true" />
+  <img align="left" alt="MansanasCatch's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MansanasCatch&theme=tokyonight&show_icons=true" />
 </details>
 
 [website]: https://codeSTACKr.com
