@@ -52,7 +52,4 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="MansanasCatch's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MansanasCatch&theme=tokyonight&show_icons=true" />
-</details>
