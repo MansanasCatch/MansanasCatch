@@ -11,6 +11,7 @@
 [<img align="left" alt="Catch | LinkedIn" width="10%" src="https://img.icons8.com/fluent/64/000000/linkedin.png" />](https://www.linkedin.com/in/cristian-catchuela-bb70b01a1)
 
 <br />
+<br />
 
 ## I'm a FullStack Developer 😄
 
