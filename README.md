@@ -5,10 +5,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Catch | YouTube" width="4%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC014ZRlK0DfA6xeroiKdWeg)
-[<img align="left" alt="Catch | Facebook" width="4%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/CatchCodeLabs/)
-[<img align="left" alt="Catch | Instagram" width="4%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/cristian_catch/)
-[<img align="left" alt="Catch | LinkedIn" width="4%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/cristian-catchuela-bb70b01a1)
+[<img align="left" alt="Catch | YouTube" width="4%" src="https://img.icons8.com/plasticine/100/000000/youtube.png" />](https://www.youtube.com/channel/UC014ZRlK0DfA6xeroiKdWeg)
+[<img align="left" alt="Catch | Facebook" width="4%" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />](https://www.facebook.com/CatchCodeLabs/)
+[<img align="left" alt="Catch | Instagram" width="4%" src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png" />](https://www.instagram.com/cristian_catch/)
+[<img align="left" alt="Catch | LinkedIn" width="4%" src="https://img.icons8.com/fluent/64/000000/linkedin.png" />](https://www.linkedin.com/in/cristian-catchuela-bb70b01a1)
 
 <br />
 
@@ -67,7 +67,8 @@
         - ✔️ Bunifu 
         - ✔️ Metro Framework
 
- - 📘 Other Knowledge 
+- 📘 Other Knowledge 
+    - 📚 Knowledgeable in:
         - ✔️ Lighthouse Extension Testing Tool
         - ✔️ C, C++, XML, Json, ADO.NET, Owin, Dataset, OOP,API and Crystal Report
         - ✔️ Blender, Pencil, Adobe Photoshop, Adobe Flash, and Adobe Illustrator
@@ -87,4 +88,4 @@
 
 ---
 
-  <img align="left"  alt="MansanasCatch's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MansanasCatch&theme=tokyonight&show_icons=true" style="width: 100%;" />
+  <img align="left" width="100%" alt="MansanasCatch's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MansanasCatch&theme=tokyonight&show_icons=true" />
