@@ -22,7 +22,6 @@
         - ✔️ Sublime Text
     - 📚 Programming Languages/Framework:
         - ✔️ ASP.NET MVC Razor C#
-        - ✔️ JavaScript 
         - ✔️ PHP
     - 📚 Knowledgeable in:
         - ✔️ Azure DevOps Git Repository, GitHub, Git Bash, and TFS
