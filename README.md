@@ -90,7 +90,6 @@
 ### 📺 My YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Simple Clinic Management System](https://www.youtube.com/watch?v=lEHL7dgrT5Q)
 - [Attendance Monitoring with Web Cam Capture for Social Distancing (Re-Upload)](https://www.youtube.com/watch?v=NvlSjiS8JMY)
 <!-- YOUTUBE:END -->
 
