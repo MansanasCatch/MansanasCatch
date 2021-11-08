@@ -90,7 +90,7 @@
 ### 📺 My YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Attendance Monitoring with Web Cam Capture for Social Distancing (Re-Upload)](https://www.youtube.com/watch?v=NvlSjiS8JMY)
+- [Attendance Monitoring with Web Cam Capture for Social Distancing &lpar;Re-Upload&rpar;](https://www.youtube.com/watch?v=NvlSjiS8JMY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC014ZRlK0DfA6xeroiKdWeg)
