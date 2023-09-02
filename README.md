@@ -14,7 +14,7 @@
 ---
 <br />
 
-- 📘 Web Development <br />
+🔘📘 Web Development 🔘<br />
     🔸📚 Software / Editor/IDE: <br />
           ✔️ Visual Studio <br />
           ✔️ VS Code <br />
@@ -48,7 +48,7 @@
              - KISS <br />
              - YAGNI <br />
 
-- 📘 Android Development <br />
+🔘📘 Android Development 🔘 <br />
     🔸📚 Software/IDE: <br />
           ✔️ Android Studio  <br />
           ✔️ Unity <br />
@@ -67,7 +67,7 @@
           ✔️ QR Codes  <br />
           ✔️ GPS Tracking <br />
  <br />
-- 📘 Windows Application Development <br />
+🔘📘 Windows Application Development 🔘 <br />
     🔸📚 Software/IDE: <br />
           ✔️ Visual Studio  <br />
           ✔️ NetBeans <br />
@@ -79,7 +79,7 @@
           ✔️ Bunifu  <br />
           ✔️ Metro Framework <br />
          <br />
-- 📘 Database Management System <br />
+🔘📘 Database Management System 🔘 <br />
     🔸📚 Knowledgeable in: <br />
           ✔️ Microsoft SQL Server <br />
           ✔️ MongoDB <br />
@@ -90,7 +90,7 @@
           ✔️ SQLite <br />
           ✔️ DB Browser <br />
  <br />
-- 📘 Other Knowledge  <br />
+🔘📘 Other Knowledge 🔘  <br />
     🔸📚 Knowledgeable in: <br />
           ✔️ Agile Methodology (Scrum and Kanban) <br />
           ✔️ Unit Testing, Service Testing, Validator Testing, XUnit, Moq,  <br />
