@@ -2,8 +2,11 @@
   ✔️ FullStack Developer
   
   ✔️ I’m a Web App Developer
+  
   ✔️ I’m a Mobile App Developer
+  
   ✔️ I’m a API Developer
+  
   
 ### Connect with me:
 
@@ -19,9 +22,10 @@
 
 - 📘 Web Development
     🔸📚 Software / Editor/IDE:
-          ✔️ Visual Studio, 
-          ✔️ VS Code 
+          ✔️ Visual Studio
+          ✔️ VS Code
           ✔️ Sublime Text
+  
     🔸📚 Programming Languages/Framework:
           ✔️ .NET Core C#
           ✔️ .NET Framework C#
