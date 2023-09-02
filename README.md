@@ -14,9 +14,7 @@
 ---
 <br />
 
-### I'm a FullStack Developer 😄
-
-- 📘 Web Development
+- 📘 Web Development <br />
     🔸📚 Software / Editor/IDE: <br />
           ✔️ Visual Studio <br />
           ✔️ VS Code <br />
@@ -50,60 +48,60 @@
              - KISS <br />
              - YAGNI <br />
 
-- 📘 Android Development
-    🔸📚 Software/IDE:
-          ✔️ Android Studio 
-          ✔️ Unity
-    🔸📚 Programming Languages:
-          ✔️ Java
-          ✔️ C#
-    🔸📚 Knowledgeable in:
-          ✔️ Volley
-          ✔️ Retrofit
-          ✔️ RESTAPI
-          ✔️ Room Persistence
-          ✔️ SQLite
-          ✔️ Firebase
-          ✔️ File Uploading
-          ✔️ Bluetooth
-          ✔️ QR Codes 
-          ✔️ GPS Tracking
-
-- 📘 Windows Application Development
-    🔸📚 Software/IDE:
-          ✔️ Visual Studio 
-          ✔️ NetBeans
-    🔸📚 Programming Languages:
-          ✔️ Visual Basic.Net
-          ✔️ C#
-          ✔️ Java
-    🔸📚 Knowledgeable in:
-          ✔️ Bunifu 
-          ✔️ Metro Framework
-        
-- 📘 Database Management System
-    🔸📚 Knowledgeable in:
-          ✔️ Microsoft SQL Server
-          ✔️ MongoDB
-          ✔️ Postgress
-          ✔️ XAMPP
-          ✔️ Workbench
-          ✔️ Query Browser
-          ✔️ SQLite
-          ✔️ DB Browser
-
-- 📘 Other Knowledge 
-    🔸📚 Knowledgeable in:
-          ✔️ Agile Methodology (Scrum and Kanban)
-          ✔️ Unit Testing, Service Testing, Validator Testing, XUnit, Moq, 
-          ✔️ Optimization, Lighthouse Extension Testing Tool
-          ✔️ C, C++, XML, Json, ADO.NET, Owin Identity, Dataset, API and Crystal Report
-          ✔️ Blender, Pencil, Adobe Photoshop, Adobe Flash, and Adobe Illustrator
-          ✔️ Wireframe Preparation
-          ✔️ Fundamental Principle of Object Oriented
-          ✔️ Installing hardware and software systems
-          ✔️ Configuring network (LAN/WLAN,).
-          ✔️ Database design and implementation
+- 📘 Android Development <br />
+    🔸📚 Software/IDE: <br />
+          ✔️ Android Studio  <br />
+          ✔️ Unity <br />
+    🔸📚 Programming Languages: <br />
+          ✔️ Java <br />
+          ✔️ C# <br />
+    🔸📚 Knowledgeable in: <br />
+          ✔️ Volley <br />
+          ✔️ Retrofit <br />
+          ✔️ RESTAPI <br />
+          ✔️ Room Persistence <br />
+          ✔️ SQLite <br />
+          ✔️ Firebase <br />
+          ✔️ File Uploading <br />
+          ✔️ Bluetooth <br />
+          ✔️ QR Codes  <br />
+          ✔️ GPS Tracking <br />
+ <br />
+- 📘 Windows Application Development <br />
+    🔸📚 Software/IDE: <br />
+          ✔️ Visual Studio  <br />
+          ✔️ NetBeans <br />
+    🔸📚 Programming Languages: <br />
+          ✔️ Visual Basic.Net <br />
+          ✔️ C# <br />
+          ✔️ Java <br />
+    🔸📚 Knowledgeable in: <br />
+          ✔️ Bunifu  <br />
+          ✔️ Metro Framework <br />
+         <br />
+- 📘 Database Management System <br />
+    🔸📚 Knowledgeable in: <br />
+          ✔️ Microsoft SQL Server <br />
+          ✔️ MongoDB <br />
+          ✔️ Postgress <br />
+          ✔️ XAMPP <br />
+          ✔️ Workbench <br />
+          ✔️ Query Browser <br />
+          ✔️ SQLite <br />
+          ✔️ DB Browser <br />
+ <br />
+- 📘 Other Knowledge  <br />
+    🔸📚 Knowledgeable in: <br />
+          ✔️ Agile Methodology (Scrum and Kanban) <br />
+          ✔️ Unit Testing, Service Testing, Validator Testing, XUnit, Moq,  <br />
+          ✔️ Optimization, Lighthouse Extension Testing Tool <br />
+          ✔️ C, C++, XML, Json, ADO.NET, Owin Identity, Dataset, API and Crystal Report <br />
+          ✔️ Blender, Pencil, Adobe Photoshop, Adobe Flash, and Adobe Illustrator <br />
+          ✔️ Wireframe Preparation <br />
+          ✔️ Fundamental Principle of Object Oriented <br />
+          ✔️ Installing hardware and software systems <br />
+          ✔️ Configuring network (LAN/WLAN,). <br />
+          ✔️ Database design and implementation <br />
 
 <br />
 
