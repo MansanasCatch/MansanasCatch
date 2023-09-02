@@ -1,12 +1,8 @@
 ### Hi there, I'm Cristian - aka [Catch] 👋
-  ✔️ FullStack Developer
-  
-  ✔️ I’m a Web App Developer
-  
-  ✔️ I’m a Mobile App Developer
-  
-  ✔️ I’m a API Developer
-  
+  ✔️ FullStack Developer <br />
+  ✔️ I’m a Web App Developer <br />
+  ✔️ I’m a Mobile App Developer <br />
+  ✔️ I’m a API Developer <br />
   
 ### Connect with me:
 
@@ -21,39 +17,38 @@
 ### I'm a FullStack Developer 😄
 
 - 📘 Web Development
-    🔸📚 Software / Editor/IDE:
-          ✔️ Visual Studio
-          ✔️ VS Code
-          ✔️ Sublime Text
-  
-    🔸📚 Programming Languages/Framework:
-          ✔️ .NET Core C#
-          ✔️ .NET Framework C#
-    🔸📚 Knowledgeable in:
-          ✔️ Microservices, Monilithic, 3 Tier Architecture
-          ✔️ Azure DevOps Git Repository, Azure CICD, GitHub
-          ✔️ RESTAPI, Swagger, Postman
-          ✔️ Authentication, Authorization, Routing, FluentValidation, Data Annotation, Dependency Injection
-          ✔️ JWT, Identity Claims, Token Session, Cookies
-          ✔️ Database First and Code First Approach 
-          ✔️ Stored Procedure, Dapper, Entity Framework, LINQ, UnitOfWork
-          ✔️ MVC, Mediator Pattern, Repository Pattern, Clean Architecture, CQRS Pattern
-          ✔️ HTML,CSS, Bootstrap, JavaScript, VueJS, AngularJS, ReactJs , JQuery, AJAX, Axios, NodeJS, NextJS, Redux
-          ✔️ Python Web Scrapping with SQLite, Selenium, BeautifulSoap
-          ✔️ Material UI, Admin LTE Template, Modern Admin Template, Vuexy Template
-          ✔️ IIS Publishing, SignalR, Bundling, Manifest Implementation
-          ✔️ Data Optimization, XUnit, Moq, Bogus
-          ✔️ Google Map API v3
-             - GPS Tracking using Android.
-             - Geocoding
-             - Geofencing.
-             - Geotagging (POI)
-             - Routing.
-          ✔️ Coding Principles
-             - SOLID
-             - DRY
-             - KISS
-             - YAGNI
+    🔸📚 Software / Editor/IDE: <br />
+          ✔️ Visual Studio <br />
+          ✔️ VS Code <br />
+          ✔️ Sublime Text <br />
+    🔸📚 Programming Languages/Framework: <br />
+          ✔️ .NET Core C# <br />
+          ✔️ .NET Framework C# <br />
+    🔸📚 Knowledgeable in: <br />
+          ✔️ Microservices, Monilithic, 3 Tier Architecture <br />
+          ✔️ Azure DevOps Git Repository, Azure CICD, GitHub <br />
+          ✔️ RESTAPI, Swagger, Postman <br />
+          ✔️ Authentication, Authorization, Routing, FluentValidation, Data Annotation, Dependency Injection <br />
+          ✔️ JWT, Identity Claims, Token Session, Cookies <br />
+          ✔️ Database First and Code First Approach  <br />
+          ✔️ Stored Procedure, Dapper, Entity Framework, LINQ, UnitOfWork <br />
+          ✔️ MVC, Mediator Pattern, Repository Pattern, Clean Architecture, CQRS Pattern <br />
+          ✔️ HTML,CSS, Bootstrap, JavaScript, VueJS, AngularJS, ReactJs , JQuery, AJAX, Axios, NodeJS, NextJS, Redux <br />
+          ✔️ Python Web Scrapping with SQLite, Selenium, BeautifulSoap <br />
+          ✔️ Material UI, Admin LTE Template, Modern Admin Template, Vuexy Template <br />
+          ✔️ IIS Publishing, SignalR, Bundling, Manifest Implementation <br />
+          ✔️ Data Optimization, XUnit, Moq, Bogus <br />
+          ✔️ Google Map API v3 <br />
+             - GPS Tracking using Android. <br />
+             - Geocoding <br />
+             - Geofencing. <br />
+             - Geotagging (POI) <br />
+             - Routing. <br />
+          ✔️ Coding Principles <br />
+             - SOLID <br />
+             - DRY <br />
+             - KISS <br />
+             - YAGNI <br />
 
 - 📘 Android Development
     🔸📚 Software/IDE:
