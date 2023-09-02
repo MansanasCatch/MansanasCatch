@@ -16,7 +16,7 @@
 
 🔘📘 Web Development 🔘<br />
     🔸📚 Software / Editor/IDE: <br />
-          ✔️ Visual Studio <br />
+            ✔️ Visual Studio <br />
           ✔️ VS Code <br />
           ✔️ Sublime Text <br />
     🔸📚 Programming Languages/Framework: <br />
