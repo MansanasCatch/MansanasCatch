@@ -3,7 +3,7 @@
   ✔️ I’m a Web App Developer <br />
   ✔️ I’m a Mobile App Developer <br />
   ✔️ I’m a API Developer <br />
-  
+  <br />
 ### Connect with me:
 
 [<img align="left" alt="Catch | YouTube" width="50px" src="https://img.icons8.com/plasticine/100/000000/youtube.png" />](https://www.youtube.com/channel/UC014ZRlK0DfA6xeroiKdWeg)
@@ -18,10 +18,10 @@
     🔸📚 Software / Editor/IDE: <br />
           🔸✔️ Visual Studio <br />
           🔸✔️ VS Code <br />
-          🔸✔️ Sublime Text <br />
+          🔸✔️ Sublime Text <br /><br />
     🔸📚 Programming Languages/Framework: <br />
           🔸✔️ .NET Core C# <br />
-          🔸✔️ .NET Framework C# <br />
+          🔸✔️ .NET Framework C# <br /><br />
     🔸📚 Knowledgeable in: <br />
           🔸✔️ Microservices, Monilithic, 3 Tier Architecture <br />
           🔸✔️ Azure DevOps Git Repository, Azure CICD, GitHub <br />
@@ -46,15 +46,15 @@
           🔸 - SOLID <br />
           🔸 - DRY <br />
           🔸 - KISS <br />
-          🔸 - YAGNI <br />
+          🔸 - YAGNI <br /><br />
 
 🔘📘 Android Development 🔘 <br />
     🔸📚 Software/IDE: <br />
           🔸✔️ Android Studio  <br />
-          🔸✔️ Unity <br />
+          🔸✔️ Unity <br /><br />
     🔸📚 Programming Languages: <br />
           🔸✔️ Java <br />
-          🔸✔️ C# <br />
+          🔸✔️ C# <br /><br />
     🔸📚 Knowledgeable in: <br />
           🔸✔️ Volley <br />
           🔸✔️ Retrofit <br />
@@ -70,11 +70,11 @@
 🔘📘 Windows Application Development 🔘 <br />
     🔸📚 Software/IDE: <br />
           🔸✔️ Visual Studio  <br />
-          🔸✔️ NetBeans <br />
+          🔸✔️ NetBeans <br /><br />
     🔸📚 Programming Languages: <br />
           🔸✔️ Visual Basic.Net <br />
           🔸✔️ C# <br />
-          🔸✔️ Java <br />
+          🔸✔️ Java <br /><br />
     🔸📚 Knowledgeable in: <br />
           🔸✔️ Bunifu  <br />
           🔸✔️ Metro Framework <br />
@@ -88,7 +88,7 @@
           🔸✔️ Workbench <br />
           🔸✔️ Query Browser <br />
           🔸✔️ SQLite <br />
-          🔸✔️ DB Browser <br />
+          🔸✔️ DB Browser <br /><br />
  <br />
 🔘📘 Other Knowledge 🔘  <br />
     🔸📚 Knowledgeable in: <br />
