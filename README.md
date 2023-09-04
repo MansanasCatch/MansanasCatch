@@ -1,8 +1,8 @@
 ### Hi there, I'm Cristian - aka [Catch] 👋
   ✔️ FullStack Developer <br />
-  ✔️ I’m a Web App Developer <br />
-  ✔️ I’m a Mobile App Developer <br />
-  ✔️ I’m a API Developer <br />
+  ✔️ Web App Developer <br />
+  ✔️ Mobile App Developer <br />
+  ✔️ API Developer <br />
   <br />
 ### Connect with me:
 
