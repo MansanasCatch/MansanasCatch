@@ -23,7 +23,7 @@
           🔸✔️ .NET Core C# <br />
           🔸✔️ .NET Framework C# <br /><br />
     🔸📚 Knowledgeable in: <br />
-          🔸✔️ Microservices, Monilithic, 3 Tier Architecture <br />
+          🔸✔️ Microservices, Monilithic, Multi-Tier Architecture <br />
           🔸✔️ Azure DevOps Git Repository, Azure CICD, GitHub <br />
           🔸✔️ RESTAPI, Swagger, Postman <br />
           🔸✔️ Authentication, Authorization, Routing, FluentValidation, Data Annotation, Dependency Injection <br />
