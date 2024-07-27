@@ -14,94 +14,96 @@
 ---
 <br />
 
-🔘📘 Web Development 🔘<br />
-    🔸📚 Software / Editor/IDE: <br />
-          🔸✔️ Visual Studio <br />
-          🔸✔️ VS Code <br />
-          🔸✔️ Sublime Text <br /><br />
-    🔸📚 Programming Languages/Framework: <br />
-          🔸✔️ .NET Core C# <br />
-          🔸✔️ .NET Framework C# <br /><br />
-    🔸📚 Knowledgeable in: <br />
-          🔸✔️ Microservices, Monilithic, Multi-Tier Architecture <br />
-          🔸✔️ Azure DevOps Git Repository, Azure CICD, GitHub <br />
-          🔸✔️ RESTAPI, Swagger, Postman <br />
-          🔸✔️ Authentication, Authorization, Routing, FluentValidation, Data Annotation, Dependency Injection <br />
-          🔸✔️ JWT, Identity Claims, Token Session, Cookies <br />
-          🔸✔️ Database First and Code First Approach  <br />
-          🔸✔️ Stored Procedure, Dapper, Entity Framework, LINQ, UnitOfWork <br />
-          🔸✔️ MVC, Mediator Pattern, Repository Pattern, Clean Architecture, CQRS Pattern <br />
-          🔸✔️ HTML,CSS, Bootstrap, JavaScript, VueJS, AngularJS, ReactJs , JQuery, AJAX, Axios, NodeJS, NextJS, Redux <br />
-          🔸✔️ Python Web Scrapping with SQLite, Selenium, BeautifulSoap <br />
-          🔸✔️ Material UI, Admin LTE Template, Modern Admin Template, Vuexy Template <br />
-          🔸✔️ IIS Publishing, SignalR, Bundling, Manifest Implementation <br />
-          🔸✔️ Data Optimization, XUnit, Moq, Bogus <br />
-          🔸✔️ Google Map API v3 <br />
-          🔸 - GPS Tracking using Android. <br />
-          🔸 - Geocoding <br />
-          🔸 - Geofencing. <br />
-          🔸 - Geotagging (POI) <br />
-          🔸 - Routing. <br />
-          🔸✔️ Coding Principles <br />
-          🔸 - SOLID <br />
-          🔸 - DRY <br />
-          🔸 - KISS <br />
-          🔸 - YAGNI <br /><br />
+🔘[Web Development]🔘
+🔹Software / Editor/IDE:
+🔸Visual Studio, VSCode, and Sublime Text
 
-🔘📘 Android Development 🔘 <br />
-    🔸📚 Software/IDE: <br />
-          🔸✔️ Android Studio  <br />
-          🔸✔️ Unity <br /><br />
-    🔸📚 Programming Languages: <br />
-          🔸✔️ Java <br />
-          🔸✔️ C# <br /><br />
-    🔸📚 Knowledgeable in: <br />
-          🔸✔️ Volley <br />
-          🔸✔️ Retrofit <br />
-          🔸✔️ RESTAPI <br />
-          🔸✔️ Room Persistence <br />
-          🔸✔️ SQLite <br />
-          🔸✔️ Firebase <br />
-          🔸✔️ File Uploading <br />
-          🔸✔️ Bluetooth <br />
-          🔸✔️ QR Codes  <br />
-          🔸✔️ GPS Tracking <br />
- <br />
-🔘📘 Windows Application Development 🔘 <br />
-    🔸📚 Software/IDE: <br />
-          🔸✔️ Visual Studio  <br />
-          🔸✔️ NetBeans <br /><br />
-    🔸📚 Programming Languages: <br />
-          🔸✔️ Visual Basic.Net <br />
-          🔸✔️ C# <br />
-          🔸✔️ Java <br /><br />
-    🔸📚 Knowledgeable in: <br />
-          🔸✔️ Bunifu  <br />
-          🔸✔️ Metro Framework <br />
-         <br />
-🔘📘 Database Management System 🔘 <br />
-    🔸📚 Knowledgeable in: <br />
-          🔸✔️ Microsoft SQL Server <br />
-          🔸✔️ MongoDB <br />
-          🔸✔️ Postgress <br />
-          🔸✔️ XAMPP <br />
-          🔸✔️ Workbench <br />
-          🔸✔️ Query Browser <br />
-          🔸✔️ SQLite <br />
-          🔸✔️ DB Browser <br /><br />
- <br />
-🔘📘 Other Knowledge 🔘  <br />
-    🔸📚 Knowledgeable in: <br />
-          🔸✔️ Agile Methodology (Scrum and Kanban) <br />
-          🔸✔️ Unit Testing, Service Testing, Validator Testing, XUnit, Moq,  <br />
-          🔸✔️ Optimization, Lighthouse Extension Testing Tool <br />
-          🔸✔️ C, C++, XML, Json, ADO.NET, Owin Identity, Dataset, API and Crystal Report <br />
-          🔸✔️ Blender, Pencil, Adobe Photoshop, Adobe Flash, and Adobe Illustrator <br />
-          🔸✔️ Wireframe Preparation <br />
-          🔸✔️ Fundamental Principle of Object Oriented <br />
-          🔸✔️ Installing hardware and software systems <br />
-          🔸✔️ Configuring network (LAN/WLAN,). <br />
-          🔸✔️ Database design and implementation <br />
+🔹Programming Languages/Framework:
+🔸ASP .NET Core C# and ASP .NET Framework C#
+🔸NextJS, Redux, Create React App
+
+🔹Knowledgeable in:
+🔸Azure DevOps Git Repository, GitHub, SonarQube
+🔸RESTAPI, Swagger, Postman, Authentication, Authorization
+🔸JWT, Identity Claims, Token Session, Cookie
+🔸 Database First and Code First Approach 
+🔸Stored Procedure, Entity Framework, LINQ, UnitOfWork , MVC, Mediator, Repository Pattern, Clean Architecture, CQRS, FluentValidation, Bundling, Manifest Implementation
+🔸HTML,CSS, TailWind, SASS, Bootstrap, JavaScript, VueJS, AngularJS, ReactJs , JQuery, AJAX, Axios, NodeJS, Redux, NextJS, TypeScript
+🔸Python Web Scrapping with SQLite, Selenium, BeautifulSoap
+🔸Material UI, Admin LTE Template, Modern Admin Template, Vuexy Template
+🔸IIS Publishing, CICD, SignalR
+🔸Data Optimization handling million records.
+🔸Google Map API v3
+    - GPS Tracking using Android.
+    - Geocoding
+    - Geofencing.
+    - Geotagging (POI)
+    - Routing.
+
+🔘[Mobile Development]🔘
+🔹Software/IDE:
+🔸Android Studio and Unity
+
+🔹Programming Languages:
+🔸Java and C#
+
+🔹Knowledgeable in:
+🔸Volley
+🔸Retrofit
+🔸RESTAPI
+🔸Room Persistence
+🔸SQLite
+🔸File Uploading
+🔸Bluetooth
+🔸QR Codes
+🔸GPS Tracking
+
+🔘[Robotics - Electronics]🔘
+🔹Software / Editor/IDE:
+🔸PyCharm and Arduino IDE
+
+🔹Programming Languages:
+🔸Python and C language 
+
+🔹Knowledgeable in:
+🔸Face Detection 
+🔸Speech Recognition 
+🔸Car Obstacles Avoidance 
+🔸Bluetooth Module
+🔸Object Detection using OpenCV
+
+🔘[Windows Application Development]🔘
+🔹Software/IDE:
+🔸Visual Studio and NetBeans
+
+🔹Programming Languages:
+🔸Visual Basic.Net, C#, and Java
+
+🔹Knowledgeable in:
+🔸Bunifu
+🔸Metro Framework
+
+🔘[Database Management System]🔘
+🔸Microsoft SQL Server
+🔸MongoDB
+🔸Postgress
+🔸XAMPP
+🔸Workbench
+🔸Query Browser
+🔸SQLite
+🔸DB Browser
+
+🔘[Others]🔘
+🔸Agile Methodology (Scrum and Kanban)
+🔸Unit Testing, Service Testing, Validator Testing
+🔸Optimization, Lighthouse Extension Testing Tool
+🔸C, C++, XML, Json, ADO.NET, Owin Identity, Dataset, API and Crystal Report
+🔸Blender, Pencil, Adobe Photoshop, Adobe Flash, and Adobe Illustrator
+🔸Wireframe Preparation
+🔸Fundamental Principle of Object Oriented
+🔸Installing hardware and software systems
+🔸Configuring network (LAN/WLAN,).
+🔸Database design and implementation
 
 <br />
 
