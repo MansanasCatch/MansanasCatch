@@ -4,16 +4,15 @@
 ⭐ Web Developer <br />
 ⭐ Mobile Developer <br />
 ⭐ Robotics - Electronics <br />
-<br />
 ### Connect with me:
 🔘[LinkedIn]🔘 <br />
-https://www.linkedin.com/in/cristian-catchuela-bb70b01a1
+https://www.linkedin.com/in/cristian-catchuela-bb70b01a1 <br />
  <br />
 🔘[YouTube]🔘 <br />
-https://www.youtube.com/channel/UC014ZRlK0DfA6xeroiKdWeg
+https://www.youtube.com/channel/UC014ZRlK0DfA6xeroiKdWeg <br />
  <br />
 🔘[Facebook]🔘 <br />
-https://www.facebook.com/cristian.catchuela
+https://www.facebook.com/cristian.catchuela <br />
 
 ---
 <br />
