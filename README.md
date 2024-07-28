@@ -1,11 +1,11 @@
-### Hi there, I'm Cristian - aka [Catch] 👋
-  ✔️ FullStack Developer <br />
-  ✔️ Web App Developer <br />
-  ✔️ Mobile App Developer <br />
-  ✔️ API Developer <br />
-  <br />
+### Hi there, I'm Catch 👋
+⭐ FullStack Developer <br />
+⭐ API Developer <br />
+⭐ Web Developer <br />
+⭐ Mobile Developer <br />
+⭐ Robotics - Electronics <br />
+<br />
 ### Connect with me:
-
 🔘[LinkedIn]🔘 <br />
 https://www.linkedin.com/in/cristian-catchuela-bb70b01a1
  <br />
