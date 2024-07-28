@@ -6,13 +6,13 @@
   <br />
 ### Connect with me:
 
-🔘[LinkedIn]🔘
+🔘[LinkedIn]🔘 <br />
 https://www.linkedin.com/in/cristian-catchuela-bb70b01a1
-
-🔘[YouTube]🔘
+ <br />
+🔘[YouTube]🔘 <br />
 https://www.youtube.com/channel/UC014ZRlK0DfA6xeroiKdWeg
-
-🔘[Facebook]🔘
+ <br />
+🔘[Facebook]🔘 <br />
 https://www.facebook.com/cristian.catchuela
 
 ---
