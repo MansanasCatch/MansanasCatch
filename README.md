@@ -17,20 +17,20 @@ https://www.facebook.com/cristian.catchuela <br />
 ---
 <br />
 
-🔘[Web Development]🔘 <br />
+🔘[Web Development]🔘
 🔹Software / Editor/IDE: <br />
 🔸Visual Studio, VSCode, and Sublime Text <br />
  <br />
 🔹Programming Languages/Framework: <br />
-🔸ASP .NET Core C# and ASP .NET Framework C# <br />
+🔸.NET Core C# and .NET Framework C# <br />
 🔸NextJS, Redux, Create React App <br />
-
+ <br />
 🔹Knowledgeable in: <br />
-🔸Azure DevOps Git Repository, GitHub, SonarQube <br />
+🔸Azure DevOps Git Repository, CIDI, GitHub, SonarQube, Azure OpenAI <br />
 🔸RESTAPI, Swagger, Postman, Authentication, Authorization <br />
 🔸JWT, Identity Claims, Token Session, Cookie <br />
 🔸 Database First and Code First Approach  <br />
-🔸Stored Procedure, Entity Framework, LINQ, UnitOfWork , MVC, Mediator, Repository Pattern, Clean Architecture, CQRS, FluentValidation, Bundling, Manifest Implementation <br />
+🔸Stored Procedure, Entity Framework, LINQ, UnitOfWork , MVC, Mediator, Repository Pattern, Clean Architecture, Screaming Arch, CQRS, FluentValidation, Bundling, Manifest Implementation <br />
 🔸HTML,CSS, TailWind, SASS, Bootstrap, JavaScript, VueJS, AngularJS, ReactJs , JQuery, AJAX, Axios, NodeJS, Redux, NextJS, TypeScript <br />
 🔸Python Web Scrapping with SQLite, Selenium, BeautifulSoap <br />
 🔸Material UI, Admin LTE Template, Modern Admin Template, Vuexy Template <br />
@@ -63,17 +63,25 @@ https://www.facebook.com/cristian.catchuela <br />
  <br />
 🔘[Robotics - Electronics]🔘 <br />
 🔹Software / Editor/IDE: <br />
-🔸PyCharm and Arduino IDE <br />
+🔸PyCharm, VS Code, and Arduino IDE <br />
  <br />
 🔹Programming Languages: <br />
 🔸Python and C language  <br />
  <br />
 🔹Knowledgeable in: <br />
+🔸Gemini Artificial Intelligence <br />
+🔸Llama Artificial Intelligence <br />
+🔸Azure OpenAI <br />
+🔸Training Data Fine Tuning <br />
+🔸Eleven Labs: HumanLike Voices <br />
+🔸Voice Detection <br />
 🔸Face Detection  <br />
 🔸Speech Recognition  <br />
 🔸Car Obstacles Avoidance  <br />
 🔸Bluetooth Module <br />
 🔸Object Detection using OpenCV <br />
+🔸Raspberry Pi <br />
+🔸Arduino Modules <br />
  <br />
 🔘[Windows Application Development]🔘 <br />
 🔹Software/IDE: <br />
@@ -95,18 +103,16 @@ https://www.facebook.com/cristian.catchuela <br />
 🔸Query Browser <br />
 🔸SQLite <br />
 🔸DB Browser <br />
+🔸Firebase <br />
  <br />
 🔘[Others]🔘 <br />
 🔸Agile Methodology (Scrum and Kanban) <br />
-🔸Unit Testing, Service Testing, Validator Testing <br />
+🔸Unit Testing, Service Testing, Validator Testing, Architecture Testing <br />
 🔸Optimization, Lighthouse Extension Testing Tool <br />
 🔸C, C++, XML, Json, ADO.NET, Owin Identity, Dataset, API and Crystal Report <br />
 🔸Blender, Pencil, Adobe Photoshop, Adobe Flash, and Adobe Illustrator <br />
-🔸Wireframe Preparation <br />
 🔸Fundamental Principle of Object Oriented <br />
-🔸Installing hardware and software systems <br />
 🔸Configuring network (LAN/WLAN,). <br />
-🔸Database design and implementation <br />
 
 <br />
 
