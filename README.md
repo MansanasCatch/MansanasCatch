@@ -37,11 +37,11 @@ https://www.facebook.com/cristian.catchuela <br />
 🔸IIS Publishing, CICD, SignalR <br />
 🔸Data Optimization handling million records. <br />
 🔸Google Map API v3 <br />
-    - GPS Tracking using Android. <br />
-    - Geocoding <br />
-    - Geofencing. <br />
-    - Geotagging (POI) <br />
-    - Routing. <br />
+      - GPS Tracking using Android. <br />
+      - Geocoding <br />
+      - Geofencing. <br />
+      - Geotagging (POI) <br />
+      - Routing. <br />
  <br />
 🔘[Mobile Development]🔘 <br />
 🔹Software/IDE: <br />
@@ -115,5 +115,3 @@ https://www.facebook.com/cristian.catchuela <br />
 🔸Configuring network (LAN/WLAN,). <br />
 
 <br />
-
-<img align="left" width="100%" alt="MansanasCatch's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MansanasCatch&theme=tokyonight&show_icons=true" />
